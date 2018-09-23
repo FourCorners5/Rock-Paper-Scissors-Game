@@ -1,0 +1,12 @@
+.hidden {
+    display: none;
+} 
+.vanish {
+    display: none;
+} 
+body {
+    padding: 4em;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: grey;
+}
